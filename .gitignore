@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 venv/
+=======
+# Виртуальное окружение
+venv/
+
+# PyCharm файлы
+.idea/
+*.iml
+
+# Системные файлы MacOS
+.DS_Store
+>>>>>>> 91a1434 (Update .gitignore and remove unnecessary files)
