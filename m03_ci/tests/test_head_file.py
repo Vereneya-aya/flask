@@ -1,6 +1,6 @@
 import unittest
 import os
-from ci_3.app.head_file import read_file
+from m03_ci.app.head_file import read_file
 
 class TestHeadFile(unittest.TestCase):
     def setUp(self):

@@ -1,5 +1,5 @@
 import unittest
-from ci_3.app.routes import app
+from m03_ci.app.routes import app
 
 class TestMaxNumberApp(unittest.TestCase):
     def setUp(self):

@@ -1,5 +1,5 @@
 import unittest
-from ci_3.app.utils import is_adult
+from m03_ci.app.utils import is_adult
 
 class TestIsAdult(unittest.TestCase):
     def test_adult(self):

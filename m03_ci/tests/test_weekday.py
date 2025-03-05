@@ -1,5 +1,5 @@
 import unittest
-from ci_3.app.weekday import app
+from m03_ci.app.weekday import app
 
 class TestWeekdayApp(unittest.TestCase):
     def setUp(self):

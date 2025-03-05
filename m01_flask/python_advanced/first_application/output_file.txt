@@ -1,0 +1,462 @@
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+root                 1  38.3  0.2 426853104  12912   ??  Ss    8:38AM   1:11.11 /sbin/launchd
+veranikalis       7396   2.6  0.5 499291680  41792   ??  Ss   12:33PM   0:48.00 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+veranikalis       7395   2.6  0.6 499618496  46144   ??  Ss   12:33PM   1:02.62 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+root               407   2.5  0.6 425327040  48176   ??  Ss    8:38AM   1:41.83 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+veranikalis       1046   1.9  0.7 417040560  54608   ??  S     8:40AM   3:25.44 /Applications/ChatGPT.app/Contents/MacOS/ChatGPT
+root               150   1.9  0.2 426972640  17936   ??  Ss    8:38AM   1:23.47 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+_windowserver      191   1.7  1.0 413849584  86432   ??  Ss    8:38AM  49:51.24 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+veranikalis       6868   1.4  2.7 418304272 225488   ??  S    12:10PM   8:39.81 /Applications/PyCharm CE.app/Contents/MacOS/pycharm
+veranikalis        952   1.3  0.7 412689792  58512   ??  S     8:39AM   4:17.02 /Applications/WhatsApp.app/Contents/MacOS/WhatsApp
+veranikalis        927   1.0  2.0 499721472 164224   ??  Ss    8:39AM   4:18.77 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+veranikalis        540   0.7  0.1 35473804  12064   ??  S     8:39AM   0:46.45 /Applications/PuntoSwitcher.app/Contents/MacOS/PuntoSwitcher
+veranikalis       7733   0.7  0.2 426936016  19184   ??  S    12:54PM   0:00.14 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+root               173   0.6  0.2 426956352  13728   ??  Ss    8:38AM   0:24.56 /usr/libexec/dasd
+root               123   0.4  0.2 427032032  14272   ??  Ss    8:38AM   1:23.31 /usr/libexec/logd
+root               198   0.4  0.1 426958256  11056   ??  Ss    8:38AM   0:26.39 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
+veranikalis       2927   0.4  0.6 411911616  50928   ??  S    11:57AM   0:15.80 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+veranikalis        614   0.4  0.2 427166160  15184   ??  S     8:39AM   0:05.43 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+veranikalis       7492   0.3  0.3 410797360  26576   ??  S    12:41PM   0:02.30 /System/Library/PrivateFrameworks/SiriInference.framework/Versions/A/siriinferenced
+veranikalis        454   0.3  0.1 426919712   5456   ??  S     8:39AM   0:45.74 /usr/sbin/cfprefsd agent
+veranikalis       1484   0.3  0.2 1621850752  13888   ??  S     8:54AM   0:35.15 /Applications/Notion.app/Contents/Frameworks/Notion Helper.app/Contents/MacOS/Notion Helper --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --user-data-dir=/Users/veranikalis/Library/Application Support/Notion --shared-files --field-trial-handle=1718379636,r,16048190248427948739,10020651073868165305,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=MacWebContentsOcclusion,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version
+veranikalis        509   0.2  0.3 427216848  21936   ??  S     8:39AM   0:17.10 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+veranikalis       1476   0.2  0.7 1622364272  55408   ??  S     8:54AM   1:09.49 /Applications/Notion.app/Contents/MacOS/Notion
+eset-ecsm-scand    350   0.2  0.7 412391360  58864   ??  S     8:38AM   3:50.55 /Applications/ESET Cyber Security.app/Contents/MacOS/scand
+root               433   0.2  0.2 411482656  15440   ??  Ss    8:38AM   3:07.88 /Library/SystemExtensions/49F9DCBD-A7CF-4B7D-BF62-B11FA234460F/com.eset.endpoint.systemextension/Contents/MacOS/com.eset.endpoint
+veranikalis        606   0.1  0.2 411245168  13040   ??  S     8:39AM   0:05.72 /System/Library/CoreServices/Siri.app/Contents/MacOS/Siri launchd
+root               188   0.1  0.1 426949120   7424   ??  Ss    8:38AM   0:22.64 /usr/libexec/corebrightnessd --launchd
+root               370   0.1  0.2 411286560  12752   ??  S     8:38AM   2:01.30 /Applications/ESET Cyber Security.app/Contents/MacOS/oaeventd
+veranikalis        515   0.1  0.3 427067664  24016   ??  S     8:39AM   0:09.53 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+veranikalis       1534   0.1  0.1 410369824   6320   ??  Ss    8:55AM   4:12.10 /Applications/Urban VPN Desktop.app/Contents/PlugIns/Urban VPN Tunnel.appex/Contents/MacOS/Urban VPN Tunnel -AppleLanguages ("en-ES", "ru-ES", "be-ES", "es-ES")
+veranikalis       7390   0.1  0.1 431471904  10000   ??  Ss   12:33PM   0:07.09 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
+veranikalis       7645   0.1  0.2 411453440  13104   ??  S    12:45PM   0:05.27 /Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python /Users/veranikalis/Geekbrains/ПРОГРАММИСТ/PYTHON/Flask/python_advanced/first_application/app.py
+veranikalis       1488   0.1  1.0 1622066256  79728   ??  S     8:54AM   0:49.15 /Applications/Notion.app/Contents/Frameworks/Notion Helper (Renderer).app/Contents/MacOS/Notion Helper (Renderer) --type=renderer --user-data-dir=/Users/veranikalis/Library/Application Support/Notion --app-path=/Applications/Notion.app/Contents/Resources/app.asar --enable-sandbox --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=9 --time-ticks-at-unix-epoch=-1740555504451074 --launch-time-ticks=989885306 --shared-files --field-trial-handle=1718379636,r,16048190248427948739,10020651073868165305,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=MacWebContentsOcclusion,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --seatbelt-client=87
+veranikalis       7640   0.0  0.3 426966112  21520   ??  S    12:45PM   0:00.69 /System/Library/PrivateFrameworks/VoiceShortcuts.framework/Versions/A/Support/siriactionsd
+root              7636   0.0  0.0 426948176   3968   ??  Ss   12:44PM   0:00.09 /System/Library/CoreServices/osanalyticshelper server-init
+veranikalis       7635   0.0  0.1 426948256   6608   ??  S    12:44PM   0:00.22 /System/Library/Frameworks/Translation.framework/translationd
+root              7629   0.0  0.1 426916800   9664   ??  Ss   12:44PM   0:00.11 /usr/libexec/PowerUIAgent
+root              7626   0.0  0.0 426916144   1760   ??  Ss   12:43PM   0:00.07 /usr/libexec/logd_helper
+root              7624   0.0  0.0 426949152   3856   ??  Ss   12:42PM   0:00.03 /usr/libexec/amfid
+veranikalis       7616   0.0  0.1 498973616  11280   ??  Ss   12:42PM   0:00.45 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+veranikalis       7604   0.0  0.1 499019120   9200   ??  Ss   12:42PM   0:00.69 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+veranikalis       7603   0.0  0.2 426949600  14016   ??  S    12:42PM   0:01.17 /usr/libexec/siriknowledged
+root              7601   0.0  0.1 426954416  11248   ??  Ss   12:41PM   0:00.28 /usr/libexec/wifip2pd
+veranikalis       7597   0.0  0.1 426967824  12512   ??  S    12:41PM   0:00.28 /usr/libexec/promotedcontentd
+root              7595   0.0  0.0 410895056   2704   ??  Ss   12:41PM   0:00.05 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Versions/A/XPCServices/com.apple.AppStoreDaemon.StorePrivilegedODRService.xpc/Contents/MacOS/com.apple.AppStoreDaemon.StorePrivilegedODRService
+_installcoordinationd  7593   0.0  0.0 426912688   4128   ??  Ss   12:41PM   0:00.08 /System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd
+veranikalis       7592   0.0  0.2 431355696  17472   ??  S    12:41PM   0:00.75 /System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd
+veranikalis       7591   0.0  0.2 426964592  13504   ??  S    12:41PM   0:00.38 /System/Library/PrivateFrameworks/AppleMediaServices.framework/Resources/amsaccountsd
+veranikalis       7590   0.0  0.2 426970512  18656   ??  S    12:41PM   0:00.75 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent
+veranikalis       7589   0.0  0.1 426912416   5648   ??  S    12:41PM   0:00.04 /usr/libexec/feedbackd
+veranikalis       7588   0.0  0.0 427157552    448   ??  Ss   12:41PM   0:00.24 /System/Library/PrivateFrameworks/MessagesBlastDoorSupport.framework/Versions/A/XPCServices/MessagesBlastDoorService.xpc/Contents/MacOS/MessagesBlastDoorService
+veranikalis       7587   0.0  0.1 426948752   6016   ??  S    12:41PM   0:00.12 /System/Library/PrivateFrameworks/BusinessChatService.framework/businessservicesd
+veranikalis       7586   0.0  0.0 426911472   1920   ??  S    12:41PM   0:00.04 /usr/libexec/icloudmailagent
+root              7585   0.0  0.0 426916464   3968   ??  Ss   12:41PM   0:00.22 /usr/libexec/triald_system
+root              7580   0.0  0.1 426949760   7184   ??  Ss   12:41PM   0:00.11 /usr/libexec/ospredictiond
+veranikalis       7577   0.0  0.1 426948880   4832   ??  S    12:41PM   0:00.07 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+veranikalis       7576   0.0  0.1 411615904  11648   ??  Ss   12:41PM   0:00.29 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+veranikalis       7571   0.0  0.4 427214464  29408   ??  Ss   12:41PM   0:01.26 /System/Applications/Weather.app/Contents/PlugIns/WeatherWidget.appex/Contents/MacOS/WeatherWidget
+veranikalis       7570   0.0  0.1 426928688   7104   ??  Ss   12:41PM   0:00.04 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+veranikalis       7566   0.0  0.1 426956784   9520   ??  S    12:41PM   0:00.05 /System/Library/PrivateFrameworks/IntlPreferences.framework/Support/localizationswitcherd
+_locationd        7565   0.0  0.0 426948016   3056   ??  S    12:41PM   0:00.08 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+_locationd        7562   0.0  0.1 426951168   4864   ??  S    12:41PM   0:00.15 /usr/libexec/trustd --agent
+veranikalis       7559   0.0  0.2 427417472  13264   ??  S    12:41PM   0:01.21 /System/Library/PrivateFrameworks/ReplicatorCore.framework/Support/replicatord
+_locationd        7560   0.0  0.0 426916432   1840   ??  S    12:41PM   0:00.05 /usr/sbin/cfprefsd agent
+root              7561   0.0  0.0 410781376   2944   ??  Ss   12:41PM   0:00.02 /System/Library/PrivateFrameworks/PowerLog.framework/Versions/A/XPCServices/PerfPowerTelemetryClientRegistrationService.xpc/Contents/MacOS/PerfPowerTelemetryClientRegistrationService
+_cmiodalassistants  7558   0.0  0.0 426948016   3056   ??  S    12:41PM   0:00.08 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+veranikalis       7556   0.0  0.2 411628288  20400   ??  S    12:41PM   0:07.75 /System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod
+root              7553   0.0  0.0 426917024   2976   ??  Ss   12:41PM   0:00.06 /usr/libexec/trustdFileHelper
+_cmiodalassistants  7552   0.0  0.1 426951168   4864   ??  S    12:41PM   0:00.14 /usr/libexec/trustd --agent
+_locationd        7551   0.0  0.0 426949632   3632   ??  S    12:41PM   0:00.07 /usr/libexec/secinitd
+_cmiodalassistants  7550   0.0  0.0 426916432   1856   ??  S    12:41PM   0:00.06 /usr/sbin/cfprefsd agent
+_locationd        7548   0.0  0.1 426951536  11872   ??  S    12:41PM   0:00.16 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+_cmiodalassistants  7549   0.0  0.0 426949632   3632   ??  S    12:41PM   0:00.07 /usr/libexec/secinitd
+_cmiodalassistants  7547   0.0  0.1 426951536  11536   ??  S    12:41PM   0:00.16 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+veranikalis       7546   0.0  0.1 426953056   7168   ??  S    12:41PM   0:00.12 /usr/libexec/keyboardservicesd
+veranikalis       7545   0.0  0.1 426960464  11008   ??  Ss   12:41PM   0:00.17 /System/Library/PrivateFrameworks/iCloudDriveService.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor
+root              7544   0.0  0.0 410952672   3152   ??  Ss   12:41PM   0:00.08 /usr/libexec/containermanagerd_system --runmode=privileged --user-container-mode=current --bundle-container-mode=global --bundle-container-owner=_appinstalld --system-container-mode=none
+veranikalis       7541   0.0  0.2 427025904  16208   ??  S    12:41PM   0:00.72 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+veranikalis       7539   0.0  0.1 431274512   6112   ??  S    12:41PM   0:00.19 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/reversetemplated
+root              7525   0.0  0.0 426916000   3936   ??  Ss   12:41PM   0:00.28 /System/Library/CoreServices/TimeMachine/backupd-helper -launchd
+veranikalis       7534   0.0  0.1 426961872  10256   ??  S    12:41PM   0:00.27 /usr/libexec/secinitd
+root              7531   0.0  0.1 426954496   5392   ??  Ss   12:41PM   0:00.59 /usr/libexec/storagekitd
+root              7530   0.0  0.0 426919408   2816   ??  Ss   12:41PM   0:00.11 /System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/XPCServices/AssetCacheTetheratorService.xpc/Contents/MacOS/AssetCacheTetheratorService
+veranikalis       7527   0.0  0.2 427473088  12848   ??  S    12:41PM   0:00.22 /System/Library/Frameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+root              7529   0.0  0.0 426948624   3760   ??  Ss   12:41PM   0:00.10 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd
+root              7528   0.0  0.1 426949264   7008   ??  Ss   12:41PM   0:00.24 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd --system
+_assetcache       7526   0.0  0.1 426951264   4928   ??  Ss   12:41PM   0:00.12 /usr/libexec/AssetCache/AssetCache
+veranikalis       7524   0.0  0.0 426916464   2320   ??  S    12:41PM   0:00.03 /System/Library/PrivateFrameworks/GeoServices.framework/geodMachServiceBridge
+root              7523   0.0  0.0 426917488   2016   ??  Ss   12:41PM   0:00.07 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+_neuralengine     7520   0.0  0.0 426949536   4160   ??  Ss   12:41PM   0:00.20 /usr/libexec/aneuserd
+root              7521   0.0  0.0 426948624   3776   ??  Ss   12:41PM   0:00.09 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/system_installd
+root              7519   0.0  0.0 426916448   2880   ??  Ss   12:41PM   0:00.04 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted_helper
+veranikalis       7518   0.0  0.2 426961632  14896   ??  S    12:41PM   0:06.51 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+root              7517   0.0  0.0 426916352   3168   ??  Ss   12:41PM   0:00.05 /usr/libexec/usermanagerd -t 15
+veranikalis       7516   0.0  0.2 426963792  16832   ??  S    12:41PM   0:01.42 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird
+veranikalis       7509   0.0  0.1 426916480   7088   ??  S    12:41PM   0:00.07 /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+veranikalis       7508   0.0  0.1 410492960   6208   ??  S    12:41PM   0:00.13 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/TrustedPeersHelper.xpc/Contents/MacOS/TrustedPeersHelper
+root              7507   0.0  0.2 426978464  15232   ??  Ss   12:41PM   0:06.65 /usr/libexec/coreduetd
+veranikalis       7506   0.0  0.2 426956688  19216   ??  S    12:41PM   0:00.92 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+veranikalis       7505   0.0  0.2 426973200  20048   ??  S    12:41PM   0:00.96 /usr/libexec/transparencyd
+veranikalis       7504   0.0  0.1 427070144   7152   ??  S    12:41PM   0:00.16 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+veranikalis       7503   0.0  0.1 426956816   7872   ??  S    12:41PM   0:00.05 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+veranikalis       7502   0.0  0.0 426913408   3040   ??  S    12:41PM   0:00.08 /System/Library/Frameworks/ManagedSettings.framework/Versions/A/ManagedSettingsAgent
+_iconservices     7501   0.0  0.0 426945072   3408   ??  Ss   12:41PM   0:00.07 /System/Library/CoreServices/iconservicesd
+veranikalis       7500   0.0  0.1 426961744   7968   ??  S    12:41PM   0:00.09 /System/Library/CoreServices/iconservicesagent
+veranikalis       7499   0.0  0.1 426954160   6320   ??  S    12:41PM   0:00.21 /usr/libexec/dmd
+veranikalis       7498   0.0  0.0 426948704   2752   ??  S    12:41PM   0:00.05 /System/Library/CoreServices/pbs
+veranikalis       7497   0.0  0.2 426978208  14368   ??  S    12:41PM   0:00.21 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+root              7496   0.0  0.0 426912368   1440   ??  Ss   12:41PM   0:00.02 /System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.apple.AccountPolicyHelper.xpc/Contents/MacOS/com.apple.AccountPolicyHelper
+veranikalis       7495   0.0  0.1 426948048   7552   ??  S    12:41PM   0:00.08 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
+veranikalis       7494   0.0  0.0 426912016   3840   ??  S    12:41PM   0:00.04 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+veranikalis       7493   0.0  0.2 411197296  14288   ??  Ss   12:41PM   0:00.68 /System/Library/PrivateFrameworks/SiriSuggestionsSupport.framework/Versions/A/XPCServices/SiriSuggestionsBookkeepingService.xpc/Contents/MacOS/SiriSuggestionsBookkeepingService
+root              7491   0.0  0.0 410772528   2080   ??  Ss   12:41PM   0:00.04 /usr/libexec/online-auth-agent
+root              7490   0.0  0.1 411748960   9136   ??  Ss   12:40PM   0:00.52 /System/Library/PrivateFrameworks/TVIdleServices.framework/idleassetsd
+veranikalis       7489   0.0  0.1 426961088  12368   ??  S    12:40PM   0:00.39 /usr/libexec/swcd
+veranikalis       7487   0.0  0.2 411240512  15536   ??  Ss   12:40PM   0:00.34 /System/Library/CoreServices/Dock.app/Contents/XPCServices/DockHelper.xpc/Contents/MacOS/DockHelper
+veranikalis       7486   0.0  0.1 426964176   9488   ??  S    12:40PM   0:02.67 /usr/libexec/replayd
+veranikalis       7474   0.0  0.1 426962352  11968   ??  S    12:40PM   0:00.31 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+veranikalis       7392   0.0  0.1 431388864  12160   ??  Ss   12:33PM   0:04.42 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+veranikalis       7388   0.0  0.1 426960672   5984   ??  S    12:33PM   0:00.11 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+root              7387   0.0  0.0 426948880   3264   ??  Ss   12:33PM   0:00.11 /usr/libexec/mobileactivationd
+veranikalis       7212   0.0  0.1 426948560   7040   ??  S    12:24PM   0:00.84 /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/XPCServices/com.apple.iCloudHelper.xpc/Contents/MacOS/com.apple.iCloudHelper
+veranikalis       7103   0.0  0.1 499043264   4640   ??  Ss   12:17PM   0:00.19 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+veranikalis       7102   0.0  0.1 499105984  10240   ??  Ss   12:16PM   0:02.75 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+veranikalis       7061   0.0  0.0 426916496   3568   ??  S    12:16PM   0:00.12 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
+veranikalis       7060   0.0  0.0 426912368   2224   ??  S    12:16PM   0:00.04 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+veranikalis       7058   0.0  0.1 427114752   6464   ??  Ss   12:16PM   0:00.28 /System/Library/PrivateFrameworks/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.SearchHelper.xpc/Contents/MacOS/com.apple.Safari.SearchHelper
+veranikalis       7037   0.0  0.2 426972320  14992   ??  S    12:13PM   0:01.33 /usr/libexec/linkd
+root              7008   0.0  0.1 426959312   9136   ??  Ss   12:11PM   0:20.64 /usr/libexec/mobileassetd
+veranikalis       7002   0.0  0.1 426968512  10816   ??  S    12:11PM   0:00.76 /usr/libexec/networkserviceproxy
+root              6953   0.0  0.1 426948176   6016   ??  Ss   12:10PM   0:00.13 /System/Library/PrivateFrameworks/SystemStatusServer.framework/Support/systemstatusd
+veranikalis       6882   0.0  0.0 410639152   1984   ??  S    12:10PM   0:00.50 /Applications/PyCharm CE.app/Contents/bin/fsnotifier
+veranikalis       6804   0.0  0.0 426917232    976   ??  Ss   12:08PM   0:00.35 /System/Library/Frameworks/ImageIO.framework/Versions/A/XPCServices/ImageIOXPCService.xpc/Contents/MacOS/ImageIOXPCService
+veranikalis       6782   0.0  0.1 426912528  11968   ??  Ss   12:07PM   0:00.27 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+veranikalis       6781   0.0  0.2 411079424  20016   ??  Ss   12:07PM   0:01.19 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+veranikalis       6775   0.0  0.3 412016224  23440   ??  S    12:07PM   0:03.20 /System/Applications/TextEdit.app/Contents/MacOS/TextEdit
+veranikalis       6754   0.0  0.1 426948768   4656   ??  S    12:06PM   0:00.26 /usr/libexec/inputanalyticsd
+veranikalis       6666   0.0  0.0 426912320   1712   ??  S    12:05PM   0:00.02 /System/Library/PrivateFrameworks/KerberosHelper/Helpers/DiskUnmountWatcher
+veranikalis       6660   0.0  0.1 427193856   6368   ??  S    12:05PM   0:01.45 /System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged -u
+root              6606   0.0  0.1 426950080   4720   ??  Ss   12:05PM   0:00.31 /usr/libexec/rtcreportingd
+veranikalis       6590   0.0  0.1 426950400   8944   ??  S    12:05PM   0:01.00 /System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent
+veranikalis       6525   0.0  0.1 426966272   7392   ??  S    12:04PM   0:00.39 /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd
+veranikalis       6513   0.0  0.1 426951600   9312   ??  S    12:04PM   0:00.87 /System/Library/CoreServices/audioaccessoryd
+veranikalis       6479   0.0  0.1 426955312   6320   ??  S    12:04PM   0:00.33 /System/Library/PrivateFrameworks/StatusKit.framework/StatusKitAgent
+veranikalis       6471   0.0  0.1 426950528   7712   ??  S    12:04PM   0:04.99 /usr/libexec/triald
+veranikalis       6439   0.0  0.0 410921360   3568 s001  S    12:03PM   0:00.20 -zsh
+root              6438   0.0  0.0 410752848   1600 s001  Ss   12:03PM   0:00.03 login -pf veranikalis
+veranikalis       2964   0.0  0.2 411007920  16192   ??  Ss   11:59AM   0:07.45 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/ThemeWidgetControlViewService.xpc/Contents/MacOS/ThemeWidgetControlViewService
+veranikalis       2962   0.0  0.1 426960656  10464   ??  S    11:58AM   0:00.94 /usr/libexec/pkd
+root              2901   0.0  0.1 426916320   5344   ??  Ss   11:54AM   0:00.11 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+veranikalis       2900   0.0  0.1 426948928   9280   ??  S    11:54AM   0:00.64 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+veranikalis       2898   0.0  0.0 426916560   3600   ??  S    11:54AM   0:01.03 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+veranikalis       2617   0.0  0.1 426948864   5904   ??  S    11:16AM   0:00.33 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistant_service
+_fpsd             2414   0.0  0.1 426963280   4528   ??  Ss   10:40AM   0:02.13 /System/Library/PrivateFrameworks/CoreLSKD.framework/Versions/A/lskdd
+veranikalis       2323   0.0  0.4 500081120  34736   ??  Ss   10:34AM   1:16.00 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+veranikalis       2189   0.0  0.1 427135248   9680   ??  S     9:58AM   0:00.68 /System/Library/CoreServices/UserNotificationCenter.app/Contents/MacOS/UserNotificationCenter
+_neuralengine     2174   0.0  0.0 426916400   1776   ??  S     9:55AM   0:00.32 /usr/sbin/distnoted agent
+veranikalis       2133   0.0  0.1 426948672   6032   ??  S     9:54AM   0:00.23 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
+root              2132   0.0  0.2 426963280  15728   ??  Ss    9:54AM   0:41.04 /usr/libexec/PerfPowerServices
+veranikalis       2070   0.0  0.1 411271856  11424   ??  Ss    9:50AM   0:02.99 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/ThemeWidgetControlViewService.xpc/Contents/MacOS/ThemeWidgetControlViewService
+veranikalis       2055   0.0  0.2 427187648  13280   ??  Ss    9:49AM   0:02.05 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+veranikalis       1837   0.0  1.0 1867135520  81008   ??  S     9:22AM   0:45.11 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/133.0.6943.127/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --string-annotations --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=111 --time-ticks-at-unix-epoch=-1740555504454055 --launch-time-ticks=2620718816 --shared-files --field-trial-handle=1718379636,r,11348829251725313334,9537944591752339028,262144 --variations-seed-version=20250225-050117.329000 --seatbelt-client=234
+veranikalis       1830   0.0  0.2 1865332656  20288   ??  S     9:21AM   0:00.57 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/133.0.6943.127/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --string-annotations --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=107 --time-ticks-at-unix-epoch=-1740555504454055 --launch-time-ticks=2612175972 --shared-files --field-trial-handle=1718379636,r,11348829251725313334,9537944591752339028,262144 --variations-seed-version=20250225-050117.329000 --seatbelt-client=226
+veranikalis       1820   0.0  0.2 427134768  12704   ??  Ss    9:21AM   0:00.77 /System/Library/Frameworks/AuthenticationServices.framework/Versions/A/XPCServices/com.apple.AuthenticationServices.Helper.xpc/Contents/MacOS/com.apple.AuthenticationServices.Helper
+veranikalis       1815   0.0  1.0 1865422912  83360   ??  S     9:21AM   0:56.62 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/133.0.6943.127/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --string-annotations --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=104 --time-ticks-at-unix-epoch=-1740555504454055 --launch-time-ticks=2598742672 --shared-files --field-trial-handle=1718379636,r,11348829251725313334,9537944591752339028,262144 --variations-seed-version=20250225-050117.329000 --seatbelt-client=222
+veranikalis       1810   0.0  0.1 411543408  11360   ??  Ss    9:21AM   0:00.81 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/ThemeWidgetControlViewService.xpc/Contents/MacOS/ThemeWidgetControlViewService
+veranikalis       1602   0.0  0.1 426901456  10048   ??  Ss    9:00AM   0:00.44 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+veranikalis       1600   0.0  0.2 411127216  15376   ??  Ss    9:00AM   0:03.85 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+veranikalis       1584   0.0  0.1 411270272  11488   ??  Ss    8:58AM   0:08.13 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/ThemeWidgetControlViewService.xpc/Contents/MacOS/ThemeWidgetControlViewService
+veranikalis       1526   0.0  0.6 1621851904  53824   ??  S     8:55AM   0:23.83 /Applications/Notion.app/Contents/Frameworks/Notion Helper (Renderer).app/Contents/MacOS/Notion Helper (Renderer) --type=renderer --user-data-dir=/Users/veranikalis/Library/Application Support/Notion --app-path=/Applications/Notion.app/Contents/Resources/app.asar --enable-sandbox --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=17 --time-ticks-at-unix-epoch=-1740555504451074 --launch-time-ticks=1000003966 --shared-files --field-trial-handle=1718379636,r,16048190248427948739,10020651073868165305,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=MacWebContentsOcclusion,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --seatbelt-client=105
+veranikalis       1518   0.0  0.2 1621845472  14672   ??  S     8:55AM   0:01.35 /Applications/Notion.app/Contents/Frameworks/Notion Helper (Renderer).app/Contents/MacOS/Notion Helper (Renderer) --type=renderer --user-data-dir=/Users/veranikalis/Library/Application Support/Notion --app-path=/Applications/Notion.app/Contents/Resources/app.asar --enable-sandbox --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=15 --time-ticks-at-unix-epoch=-1740555504451074 --launch-time-ticks=996785403 --shared-files --field-trial-handle=1718379636,r,16048190248427948739,10020651073868165305,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=MacWebContentsOcclusion,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --seatbelt-client=107
+veranikalis       1492   0.0  0.9 1622077744  76096   ??  S     8:54AM   0:41.32 /Applications/Notion.app/Contents/Frameworks/Notion Helper (Renderer).app/Contents/MacOS/Notion Helper (Renderer) --type=renderer --user-data-dir=/Users/veranikalis/Library/Application Support/Notion --app-path=/Applications/Notion.app/Contents/Resources/app.asar --enable-sandbox --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=11 --time-ticks-at-unix-epoch=-1740555504451074 --launch-time-ticks=989975981 --shared-files --field-trial-handle=1718379636,r,16048190248427948739,10020651073868165305,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=MacWebContentsOcclusion,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --seatbelt-client=88
+veranikalis       1489   0.0  0.2 1621821776  16160   ??  S     8:54AM   0:00.29 /Applications/Notion.app/Contents/Frameworks/Notion Helper (Renderer).app/Contents/MacOS/Notion Helper (Renderer) --type=renderer --user-data-dir=/Users/veranikalis/Library/Application Support/Notion --app-path=/Applications/Notion.app/Contents/Resources/app.asar --enable-sandbox --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=10 --time-ticks-at-unix-epoch=-1740555504451074 --launch-time-ticks=989902195 --shared-files --field-trial-handle=1718379636,r,16048190248427948739,10020651073868165305,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=MacWebContentsOcclusion,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --seatbelt-client=87
+veranikalis       1487   0.0  0.2 1621889488  14816   ??  S     8:54AM   0:00.49 /Applications/Notion.app/Contents/Frameworks/Notion Helper (Renderer).app/Contents/MacOS/Notion Helper (Renderer) --type=renderer --user-data-dir=/Users/veranikalis/Library/Application Support/Notion --app-path=/Applications/Notion.app/Contents/Resources/app.asar --enable-sandbox --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=7 --time-ticks-at-unix-epoch=-1740555504451074 --launch-time-ticks=989777674 --shared-files --field-trial-handle=1718379636,r,16048190248427948739,10020651073868165305,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=MacWebContentsOcclusion,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --seatbelt-client=70
+veranikalis       1483   0.0  0.3 444015088  23376   ??  S     8:54AM   0:13.61 /Applications/Notion.app/Contents/Frameworks/Notion Helper.app/Contents/MacOS/Notion Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=network --user-data-dir=/Users/veranikalis/Library/Application Support/Notion --shared-files --field-trial-handle=1718379636,r,16048190248427948739,10020651073868165305,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=MacWebContentsOcclusion,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --seatbelt-client=32
+veranikalis       1482   0.0  0.2 444263216  12784   ??  S     8:54AM   0:03.76 /Applications/Notion.app/Contents/Frameworks/Notion Helper (GPU).app/Contents/MacOS/Notion Helper (GPU) --type=gpu-process --user-data-dir=/Users/veranikalis/Library/Application Support/Notion --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --field-trial-handle=1718379636,r,16048190248427948739,10020651073868165305,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=MacWebContentsOcclusion,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --seatbelt-client=32
+veranikalis       1481   0.0  0.0 443693824   1472   ??  S     8:54AM   0:00.04 /Applications/Notion.app/Contents/Frameworks/Electron Framework.framework/Helpers/chrome_crashpad_handler --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=/Users/veranikalis/Library/Application Support/Notion/Crashpad --url=https://www.notion.so/server/crash-report --annotation=_companyName=Notion --annotation=_productName=Notion --annotation=_version=4.5.0 --annotation=plat=OS X --annotation=prod=Electron --annotation=ver=34.0.1 --handshake-fd=20
+veranikalis       1479   0.0  0.1 427101952  10528   ??  S     8:54AM   0:00.47 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeuid.app/Contents/MacOS/storeuid
+veranikalis       1463   0.0  0.2 444249392  13296   ??  S     8:53AM  17:20.79 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/133.0.6943.127/Helpers/Google Chrome Helper (Plugin).app/Contents/MacOS/Google Chrome Helper (Plugin) --type=utility --utility-sub-type=video_capture.mojom.VideoCaptureService --lang=en-GB --service-sandbox-type=none --message-loop-type-ui --string-annotations --shared-files --field-trial-handle=1718379636,r,11348829251725313334,9537944591752339028,262144 --variations-seed-version=20250225-050117.329000
+veranikalis       1459   0.0  0.1 444300704   9408   ??  S     8:53AM   2:54.51 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/133.0.6943.127/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-GB --service-sandbox-type=audio --message-loop-type-ui --string-annotations --shared-files --field-trial-handle=1718379636,r,11348829251725313334,9537944591752339028,262144 --variations-seed-version=20250225-050117.329000 --seatbelt-client=150
+veranikalis       1359   0.0  0.1 426961216   5824   ??  Ss    8:44AM   0:00.65 /System/Applications/Mail.app/Contents/PlugIns/com.apple.mail.SpotlightIndexExtension.appex/Contents/MacOS/com.apple.mail.SpotlightIndexExtension -AppleLanguages ("en-ES", "ru-ES", "be-ES", "es-ES")
+root              1358   0.0  0.0 426912384   2768   ??  Ss    8:44AM   0:00.04 /System/Library/CoreServices/Applications/Feedback Assistant.app/Contents/Library/LaunchServices/fbahelperd
+root              1311   0.0  0.0 426912704   1632   ??  Ss    8:43AM   0:00.08 /usr/libexec/mmaintenanced
+veranikalis       1284   0.0  0.0 426912560   2752   ??  S     8:42AM   0:00.06 /System/Library/CoreServices/Setup Assistant.app/Contents/Resources/mbuseragent
+veranikalis       1277   0.0  0.1 426900944  10000   ??  Ss    8:42AM   0:00.48 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+veranikalis       1276   0.0  0.2 411254688  14448   ??  Ss    8:42AM   0:01.70 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+veranikalis       1274   0.0  0.0 410622352   3056   ??  Ss    8:42AM   0:00.06 /System/Library/Frameworks/ImageCaptureCore.framework/Versions/A/XPCServices/mscamerad-xpc.xpc/Contents/MacOS/mscamerad-xpc
+veranikalis       1275   0.0  0.0 426912160   2960   ??  S     8:42AM   0:00.07 /usr/libexec/ptpcamerad
+veranikalis       1265   0.0  0.2 412418704  16720   ??  S     8:42AM   1:37.89 /System/Applications/Preview.app/Contents/MacOS/Preview
+veranikalis       1199   0.0  0.2 426957104  12784   ??  S     8:40AM   0:00.79 /System/Library/PrivateFrameworks/People.framework/peopled
+veranikalis       1198   0.0  0.1 426962768  12336   ??  S     8:40AM   0:03.02 /usr/libexec/proactived
+veranikalis       1197   0.0  0.0 410884752   2032   ??  S     8:40AM   0:00.18 /System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged -x
+veranikalis       1179   0.0  0.2 427034848  20944   ??  S     8:40AM   0:31.22 /System/Library/PrivateFrameworks/DataAccess.framework/Support/dataaccessd
+_rmd              1063   0.0  0.0 426916400   1760   ??  S     8:40AM   0:00.44 /usr/sbin/distnoted agent
+root              1039   0.0  0.0 426915888   2480   ??  Ss    8:40AM   0:00.03 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+root              1021   0.0  0.1 426948976   6976   ??  Ss    8:40AM   0:00.30 /System/Library/CoreServices/SubmitDiagInfo server-init
+veranikalis       1017   0.0  0.1 426967968  11520   ??  Ss    8:40AM   0:01.63 /System/Library/CoreServices/Siri.app/Contents/XPCServices/SiriNCService.xpc/Contents/MacOS/SiriNCService
+veranikalis       1003   0.0  0.0 426949648   3856   ??  S     8:39AM   0:00.15 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd
+veranikalis        994   0.0  0.0 426912336   1520   ??  S     8:39AM   0:00.11 /usr/libexec/USBAgent
+veranikalis        986   0.0  0.1 426949520   5648   ??  S     8:39AM   0:00.33 /System/Library/PrivateFrameworks/EmailDaemon.framework/Versions/A/maild
+veranikalis        617   0.0  0.1 426950720   7920   ??  S     8:39AM   0:00.92 /System/Library/CoreServices/diagnostics_agent
+root               983   0.0  0.1 426949520   6000   ??  Ss    8:39AM   0:00.57 /usr/libexec/wifivelocityd
+veranikalis        982   0.0  0.1 427008240   8096   ??  S     8:39AM   0:00.62 /System/Library/CoreServices/PowerChime.app/Contents/MacOS/PowerChime
+_gamecontrollerd   969   0.0  0.0 426916400   1808   ??  S     8:39AM   0:00.46 /usr/sbin/distnoted agent
+_fpsd              963   0.0  0.0 426931024   2032   ??  Ss    8:39AM   0:00.47 /System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fairplayd
+veranikalis        957   0.0  0.1 410953904   5360   ??  Ss    8:39AM   0:03.31 /Applications/WhatsApp.app/Contents/Frameworks/WAAppKitBridge.framework/Versions/A/PlugIns/MacPlugin.bundle/Contents/Frameworks/WAAppKitBridgeServiceHost.framework/Versions/A/XPCServices/WAAppKitBridgeService.xpc/Contents/MacOS/WAAppKitBridgeService
+_audiomxd          954   0.0  0.1 426882464   4896   ??  Ss    8:39AM   0:00.91 /usr/libexec/audiomxd
+veranikalis        946   0.0  0.1 426900944  10000   ??  Ss    8:39AM   0:00.49 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+veranikalis        945   0.0  0.2 411078528  14400   ??  Ss    8:39AM   0:01.55 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+veranikalis        942   0.0  0.1 411290224   4928   ??  S     8:39AM   0:00.37 /Applications/Reverso.app/Contents/Resources/Reverso Helper.app/Contents/MacOS/Reverso Helper
+veranikalis        941   0.0  0.1 431378016   9168   ??  Ss    8:39AM   0:00.49 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+veranikalis        940   0.0  0.1 431390144   9008   ??  Ss    8:39AM   0:01.29 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+veranikalis        939   0.0  0.3 499117568  28192   ??  Ss    8:39AM   0:06.39 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+veranikalis        938   0.0  0.1 499249232   5024   ??  Ss    8:39AM   0:09.71 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+veranikalis        934   0.0  0.4 427002576  34176   ??  S     8:39AM   0:50.90 /usr/libexec/duetexpertd
+veranikalis        937   0.0  0.1 431407168   8656   ??  Ss    8:39AM   0:03.68 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
+veranikalis        930   0.0  0.4 416425232  34384   ??  S     8:39AM   0:26.64 /Applications/Reverso.app/Contents/Resources/Reverso Quick Search.app/Contents/MacOS/Reverso Quick Search
+_applepay          922   0.0  0.0 426916400   1808   ??  S     8:39AM   0:00.46 /usr/sbin/distnoted agent
+veranikalis        925   0.0  0.1 431459248   7984   ??  Ss    8:39AM   0:05.03 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
+veranikalis        924   0.0  0.1 426969040   5072   ??  S     8:39AM   0:02.75 /System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service
+veranikalis        919   0.0  0.2 416559424  19312   ??  S     8:39AM   0:06.76 /Applications/Reverso.app/Contents/MacOS/Reverso
+veranikalis        916   0.0  0.1 426920064  12160   ??  Ss    8:39AM   0:00.62 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/XPCServices/com.apple.Safari.SandboxBroker.xpc/Contents/MacOS/com.apple.Safari.SandboxBroker
+veranikalis        909   0.0  0.3 432148304  24592   ??  Ss    8:39AM   4:51.35 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
+veranikalis        908   0.0  0.3 431473184  21664   ??  Ss    8:39AM   1:35.24 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+veranikalis        905   0.0  0.1 427115600  10448   ??  S     8:39AM   0:02.13 /System/Cryptexes/App/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+veranikalis        903   0.0  0.1 426959616   9264   ??  S     8:39AM   0:01.22 /System/Library/PrivateFrameworks/PassKitCore.framework/passd
+root               899   0.0  0.0 426920576   1280   ??  Ss    8:39AM   0:00.06 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+veranikalis        894   0.0  0.2 1865336464  13088   ??  S     8:39AM   0:02.75 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/133.0.6943.127/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --string-annotations --extension-process --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=8 --time-ticks-at-unix-epoch=-1740555504454055 --launch-time-ticks=51095096 --shared-files --field-trial-handle=1718379636,r,11348829251725313334,9537944591752339028,262144 --variations-seed-version=20250225-050117.329000 --seatbelt-client=121
+veranikalis        487   0.0  0.2 426971968  19584   ??  S     8:39AM   0:24.47 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent
+veranikalis        893   0.0  0.1 427090000   7232   ??  S     8:39AM   0:21.28 /System/Cryptexes/App/usr/libexec/com.apple.Safari.History
+veranikalis        889   0.0  1.3 432538416 106464   ??  S     8:39AM   3:07.51 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/MacOS/Safari
+veranikalis        887   0.0  0.1 444191600  11056   ??  S     8:39AM   0:01.22 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/133.0.6943.127/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-GB --service-sandbox-type=service --string-annotations --shared-files --field-trial-handle=1718379636,r,11348829251725313334,9537944591752339028,262144 --variations-seed-version=20250225-050117.329000 --seatbelt-client=37
+veranikalis        886   0.0  0.1 412144928   5728   ??  S     8:39AM   0:22.92 /opt/homebrew/opt/mysql@8.0/bin/mysqld --basedir=/opt/homebrew/opt/mysql@8.0 --datadir=/opt/homebrew/var/mysql --plugin-dir=/opt/homebrew/opt/mysql@8.0/lib/plugin --log-error=Veranikas-MacBook-Air.local.err --pid-file=/opt/homebrew/var/mysql/Veranikas-MacBook-Air.local.pid --port=3306
+veranikalis        858   0.0  0.5 444357504  43456   ??  S     8:39AM   2:27.13 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/133.0.6943.127/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-GB --service-sandbox-type=network --string-annotations --shared-files --field-trial-handle=1718379636,r,11348829251725313334,9537944591752339028,262144 --variations-seed-version=20250225-050117.329000 --seatbelt-client=22
+veranikalis        857   0.0  0.3 444626640  23232   ??  S     8:39AM   7:14.17 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/133.0.6943.127/Helpers/Google Chrome Helper (GPU).app/Contents/MacOS/Google Chrome Helper (GPU) --type=gpu-process --string-annotations --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --field-trial-handle=1718379636,r,11348829251725313334,9537944591752339028,262144 --variations-seed-version=20250225-050117.329000 --seatbelt-client=22
+veranikalis        813   0.0  0.0 443702528   1296   ??  S     8:39AM   0:00.04 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/133.0.6943.127/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/veranikalis/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=133.0.6943.127 --handshake-fd=5
+veranikalis        790   0.0  0.1 426961952   9360   ??  SN    8:39AM   0:03.58 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+veranikalis        745   0.0  1.4 445004752 120960   ??  S     8:39AM   2:52.68 /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+veranikalis        701   0.0  0.0 426913440   3664   ??  S     8:39AM   0:00.08 /usr/libexec/seserviced
+veranikalis        675   0.0  0.1 426907376   6048   ??  S     8:39AM   0:00.69 /usr/libexec/avconferenced
+veranikalis        674   0.0  0.0 426911776   2064   ??  S     8:39AM   0:00.24 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+root               673   0.0  0.1 426949536   4224   ??  Ss    8:39AM   0:11.62 /usr/libexec/aned
+_fpsd              665   0.0  0.1 426915296   4320   ??  Ss    8:39AM   0:02.19 /System/Library/PrivateFrameworks/CoreADI.framework/adid
+veranikalis        650   0.0  0.1 426900944  10064   ??  Ss    8:39AM   0:00.51 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+veranikalis        649   0.0  0.2 411069440  14192   ??  Ss    8:39AM   0:01.78 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+veranikalis        647   0.0  0.2 426976240  18688   ??  S     8:39AM   0:03.94 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+veranikalis        644   0.0  0.1 426956080  11344   ??  S     8:39AM   0:03.07 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+veranikalis        643   0.0  0.1 426949024   6048   ??  S     8:39AM   0:00.33 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
+veranikalis        608   0.0  0.0 410606864    352   ??  S     8:39AM   0:00.05 /bin/sh /opt/homebrew/opt/mysql@8.0/bin/mysqld_safe --datadir=/opt/homebrew/var/mysql
+veranikalis        602   0.0  0.2 426965472  12848   ??  S     8:39AM   0:35.29 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/BiomeAgent
+veranikalis        625   0.0  0.1 426955760   9520   ??  S     8:39AM   0:01.17 /usr/libexec/milod
+veranikalis        612   0.0  0.1 411962640   5152   ??  S     8:39AM   0:00.75 /Applications/ESET Cyber Security.app/Contents/Helpers/ESET Cyber Security Agent.app/Contents/MacOS/ESET Cyber Security Agent
+veranikalis        620   0.0  0.0 411243904   4112   ??  S     8:39AM   0:00.29 com.softissimo.ReversoContext.Auto-Launcher-Reverso
+veranikalis        607   0.0  0.0 426949008   4096   ??  S     8:39AM   0:00.15 /System/Library/Image Capture/Support/icdd
+veranikalis        598   0.0  0.1 427016688   9600   ??  S     8:39AM   1:22.97 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+veranikalis        618   0.0  0.2 411428368  15408   ??  S     8:39AM   0:01.29 /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+veranikalis        613   0.0  0.1 410978704   7200   ??  S     8:39AM   0:00.29 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+veranikalis        592   0.0  0.1 426955376   9440   ??  S     8:39AM   0:00.82 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+veranikalis        589   0.0  0.1 426949344   7744   ??  S     8:39AM   0:00.98 /System/Library/PrivateFrameworks/Synapse.framework/Support/contentlinkingd
+veranikalis        587   0.0  0.2 426955888  14112   ??  S     8:39AM   0:08.53 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+veranikalis        585   0.0  0.0 426949824   3200   ??  S     8:39AM   0:00.19 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
+veranikalis        582   0.0  0.3 434309024  28304   ??  S     8:39AM   0:18.03 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+root               581   0.0  0.1 410707984   5536   ??  Ss    8:39AM   0:00.38 /Applications/ESET Cyber Security.app/Contents/XPCServices/DunxService.xpc/Contents/MacOS/DunxService
+veranikalis        580   0.0  0.3 412289392  22016   ??  S     8:39AM   0:06.17 /System/Applications/Stickies.app/Contents/MacOS/Stickies
+veranikalis        579   0.0  0.1 426977856  10384   ??  Ss    8:39AM   0:01.17 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension -AppleLanguages ("en-ES", "ru-ES", "be-ES", "es-ES")
+veranikalis        576   0.0  0.1 426972704   8976   ??  Ss    8:39AM   0:00.42 /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.iCloudDriveFileProvider.appex/Contents/MacOS/com.apple.CloudDocs.iCloudDriveFileProvider
+veranikalis        577   0.0  0.2 427102480  14224   ??  S     8:39AM   0:04.90 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+veranikalis        572   0.0  0.1 426951120   8560   ??  S     8:39AM   0:02.22 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+veranikalis        575   0.0  0.4 411750544  29648   ??  S     8:39AM   0:06.93 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+veranikalis        574   0.0  0.2 410900784  15776   ??  Ss    8:39AM   0:04.05 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+veranikalis        567   0.0  0.2 411545040  18016   ??  S     8:39AM   0:09.40 /System/Library/PrivateFrameworks/TextInputUIMacHelper.framework/Versions/A/XPCServices/CursorUIViewService.xpc/Contents/MacOS/CursorUIViewService
+veranikalis        564   0.0  0.2 411180704  16992   ??  S     8:39AM   0:01.78 /System/Library/CoreServices/UIKitSystem.app/Contents/MacOS/UIKitSystem system_app_start
+_nearbyd           563   0.0  0.1 426958880   5568   ??  Ss    8:39AM   0:02.05 /usr/libexec/nearbyd
+veranikalis        561   0.0  0.1 410694544   5248   ??  S     8:39AM   0:00.19 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+veranikalis        555   0.0  0.1 410410528   5968   ??  Ss    8:39AM   0:00.37 /Applications/ESET Cyber Security.app/Contents/Helpers/ESET Cyber Security Agent.app/Contents/Plugins/EsetFinderExtension.appex/Contents/MacOS/EsetFinderExtension -AppleLanguages ("en-ES", "ru-ES", "be-ES", "es-ES")
+veranikalis        554   0.0  0.1 410540672   6256   ??  Ss    8:39AM   0:00.30 /Applications/UnzipOne.app/Contents/PlugIns/FinderExtension.appex/Contents/MacOS/FinderExtension -AppleLanguages ("en-ES", "ru-ES", "be-ES", "es-ES")
+veranikalis        552   0.0  0.2 426968096  18144   ??  S     8:39AM   0:07.37 /usr/libexec/sharingd
+veranikalis        549   0.0  0.3 427045072  25680   ??  S     8:39AM   0:30.48 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+root               545   0.0  0.1 426949232   4560   ??  Ss    8:39AM   0:00.16 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+veranikalis        537   0.0  0.0 426916032   2976   ??  S     8:39AM   0:00.08 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+veranikalis        539   0.0  0.2 411930960  16720   ??  S     8:39AM   0:15.50 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+_oahd              536   0.0  0.0 426912368   1184   ??  Ss    8:39AM   0:00.04 /usr/libexec/rosetta/oahd
+veranikalis        534   0.0  0.1 410941568   7552   ??  Ss    8:39AM   0:05.68 /System/Library/ExtensionKit/Extensions/WallpaperVideoExtension.appex/Contents/MacOS/WallpaperVideoExtension
+veranikalis        533   0.0  0.1 426972064   4384   ??  S     8:39AM   0:00.52 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontworker
+veranikalis        526   0.0  0.0 426949696   4144   ??  S     8:39AM   0:04.14 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+veranikalis        521   0.0  0.3 426992576  21248   ??  S     8:39AM   0:24.62 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+veranikalis        520   0.0  0.1 410497504   8608   ??  S     8:39AM   0:01.84 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+veranikalis        479   0.0  0.1 426949872   6720   ??  S     8:39AM   0:01.33 /usr/libexec/ContinuityCaptureAgent server
+veranikalis        519   0.0  0.2 426974912  18384   ??  S     8:39AM   0:06.11 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+_appleevents       499   0.0  0.0 426916400   1808   ??  S     8:39AM   0:00.44 /usr/sbin/distnoted agent
+veranikalis        514   0.0  0.2 426961248  15456   ??  S     8:39AM   0:04.99 /System/Library/PrivateFrameworks/HearingCore.framework/heard
+veranikalis        506   0.0  0.0 426960032   3648   ??  S     8:39AM   0:00.13 /System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent --launchd
+veranikalis        505   0.0  0.1 426948832   6208   ??  S     8:39AM   0:00.80 /System/Library/PrivateFrameworks/UserNotificationsCore.framework/Support/usernotificationsd
+veranikalis        502   0.0  0.1 426976736  12416   ??  S     8:39AM   0:29.17 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+veranikalis        511   0.0  0.2 426979168  17840   ??  S     8:39AM   0:02.96 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+veranikalis        512   0.0  0.2 426969600  19296   ??  S     8:39AM   0:06.04 /System/Library/PrivateFrameworks/CalendarDaemon.framework/Support/calaccessd
+veranikalis        510   0.0  0.2 426961840  13200   ??  S     8:39AM   0:08.65 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd
+veranikalis        501   0.0  0.1 426950752   5552   ??  S     8:39AM   0:00.75 /System/Library/CoreServices/sharedfilelistd
+root               500   0.0  0.0 426917664   1536   ??  Ss    8:39AM   0:00.04 automountd
+root               497   0.0  0.1 426928400   7264   ??  Ss    8:39AM   0:01.59 /usr/sbin/filecoordinationd
+veranikalis        496   0.0  0.1 411530912   8576   ??  S     8:39AM   0:01.10 /System/Library/CoreServices/WallpaperAgent.app/Contents/MacOS/WallpaperAgent
+veranikalis        495   0.0  0.1 426949136   7216   ??  S     8:39AM   0:03.61 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+veranikalis        494   0.0  0.1 427101408  10176   ??  S     8:39AM   0:00.42 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+veranikalis        492   0.0  0.1 426954256  10608   ??  S     8:39AM   0:28.43 /usr/libexec/trustd --agent
+veranikalis        491   0.0  0.1 426945792   5008   ??  S     8:39AM   0:02.25 /System/Library/CoreServices/lockoutagent
+veranikalis        488   0.0  0.1 426963536   9200   ??  S     8:39AM   0:02.18 /usr/sbin/usernoted
+veranikalis        486   0.0  0.1 426952576   8960   ??  S     8:39AM   0:02.80 /usr/libexec/rapportd
+veranikalis        485   0.0  0.1 426969008  11824   ??  S     8:39AM   0:07.52 /usr/libexec/nsurlsessiond
+veranikalis        477   0.0  0.1 426900944  10000   ??  Ss    8:39AM   0:00.52 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+veranikalis        463   0.0  0.2 426980112  18192   ??  S     8:39AM   0:10.81 /usr/libexec/knowledge-agent
+veranikalis        474   0.0  0.2 426971328  14400   ??  S     8:39AM   0:15.14 /usr/libexec/secd
+veranikalis        473   0.0  0.1 426962192  10016   ??  S     8:39AM   0:02.55 /usr/libexec/lsd
+veranikalis        470   0.0  0.4 412395152  34480   ??  R     8:39AM   0:50.44 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+veranikalis        469   0.0  0.1 411427280   9232   ??  S     8:39AM   0:00.80 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+veranikalis        468   0.0  0.4 412153056  37152   ??  S     8:39AM   0:24.18 /System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter
+veranikalis        467   0.0  0.1 426929744   8832   ??  S     8:39AM   0:00.50 /usr/libexec/pboard
+veranikalis        466   0.0  0.3 412111312  21408   ??  S     8:39AM   0:14.75 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+veranikalis        465   0.0  0.3 411786192  28832   ??  S     8:39AM   0:50.01 /System/Library/CoreServices/WindowManager.app/Contents/MacOS/WindowManager
+veranikalis        459   0.0  0.1 426962544   9776   ??  S     8:39AM   0:00.76 /usr/libexec/neagent
+veranikalis        455   0.0  0.1 426951248  10848   ??  S     8:39AM   0:05.78 /usr/libexec/UserEventAgent (Aqua)
+veranikalis        461   0.0  0.1 410972672   8960   ??  S     8:39AM   0:01.51 /usr/sbin/universalaccessd launchd -s
+veranikalis        453   0.0  0.1 426916400   4688   ??  S     8:39AM   0:08.36 /usr/sbin/distnoted agent
+_trustd            442   0.0  0.1 426953728   8960   ??  Ss    8:38AM   0:57.84 /usr/libexec/trustd
+_driverkit         440   0.0  0.0 426851520    400   ??  Ss    8:38AM   0:00.02 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x100000b6c com.apple.IOUserBluetoothSerialDriver
+_netbios           438   0.0  0.0 426948992   2320   ??  SNs   8:38AM   0:00.41 /usr/sbin/netbiosd
+_accessoryupdater   425   0.0  0.0 426916400   1808   ??  S     8:38AM   0:00.46 /usr/sbin/distnoted agent
+root               424   0.0  0.0 426950624   2896   ??  S     8:38AM   0:00.28 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+root               423   0.0  0.1 426961536  10704   ??  Ss    8:38AM   0:06.02 /usr/libexec/gamepolicyd
+_nsurlsessiond     421   0.0  0.0 426916400   1808   ??  S     8:38AM   0:00.46 /usr/sbin/distnoted agent
+root               415   0.0  0.1 426950576   5248   ??  Ss    8:38AM   0:05.48 /usr/libexec/wifianalyticsd
+_spotlight         412   0.0  0.0 426916400   1808   ??  S     8:38AM   0:00.47 /usr/sbin/distnoted agent
+root               400   0.0  0.0 410922464   3904   ??  Ss    8:38AM   0:15.61 /usr/libexec/audioclocksyncd
+_ctkd              396   0.0  0.0 426912512   2496   ??  Ss    8:38AM   0:00.04 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -st
+root               385   0.0  0.0 426911904   2672   ??  Ss    8:38AM   0:00.08 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+root               375   0.0  0.1 411356928   4416   ??  Ss    8:38AM   0:03.10 /Library/SystemExtensions/A9CB94AB-3AF6-426F-BB2F-FEE8A61B6C0B/com.eset.network.systemextension/Contents/MacOS/com.eset.network
+_softwareupdate    374   0.0  0.0 426916400   1760   ??  S     8:38AM   0:00.46 /usr/sbin/distnoted agent
+eset-ecsm-gui      322   0.0  0.1 410985584   6624   ??  Ss    8:38AM   0:00.55 /Applications/ESET Cyber Security.app/Contents/XPCServices/guiserverd.xpc/Contents/MacOS/guiserverd
+eset-ecsm-netprotd   369   0.0  0.1 411539632   7232   ??  S     8:38AM   0:01.29 /Applications/ESET Cyber Security.app/Contents/MacOS/netprotd
+eset-ecsm-firewalld   368   0.0  0.1 411528736   9184   ??  S     8:38AM   0:07.19 /Applications/ESET Cyber Security.app/Contents/MacOS/firewalld
+root               367   0.0  0.1 410965760   7472   ??  S     8:38AM   0:00.71 /Applications/ESET Cyber Security.app/Contents/Helpers/ESET Web and Email Protection.app/Contents/MacOS/ESET Web and Email Protection
+root               366   0.0  0.1 411096768   7232   ??  S     8:38AM   0:00.62 /Applications/ESET Cyber Security.app/Contents/Helpers/ESET Network Access Protection.app/Contents/MacOS/ESET Network Access Protection
+root               364   0.0  0.1 426972992   5616   ??  Ss    8:38AM   0:00.91 /usr/libexec/searchpartyd
+eset-ecsm-confd    360   0.0  0.1 411410224  11488   ??  S     8:38AM   0:08.14 /Applications/ESET Cyber Security.app/Contents/MacOS/confd
+eset-ecsm-watchd   359   0.0  0.1 410872592   6640   ??  S     8:38AM   0:00.34 /Applications/ESET Cyber Security.app/Contents/MacOS/watchd
+eset-ecsm-rtp      357   0.0  0.1 410833968   6624   ??  S     8:38AM   0:00.62 /Applications/ESET Cyber Security.app/Contents/Helpers/ESET Real-time File System Protection.app/Contents/MacOS/ESET Real-time File System Protection
+root               358   0.0  0.2 411803232  17520   ??  S     8:38AM   0:45.07 /Applications/ESET Cyber Security.app/Contents/MacOS/appmonitord
+eset-ecsm-licensed   354   0.0  0.1 411528416   7040   ??  S     8:38AM   0:02.56 /Applications/ESET Cyber Security.app/Contents/MacOS/licensed
+eset-ecsm-updated   352   0.0  0.1 411530208   5936   ??  S     8:38AM   0:06.64 /Applications/ESET Cyber Security.app/Contents/MacOS/updated
+root               355   0.0  0.1 411003664   5616   ??  S     8:38AM   0:00.03 /Applications/ESET Cyber Security.app/Contents/MacOS/schedd
+root               356   0.0  0.1 410872592   6672   ??  S     8:38AM   0:00.13 /Applications/ESET Cyber Security.app/Contents/MacOS/utild
+eset-ecsm-econnd   349   0.0  0.1 411003760   5632   ??  S     8:38AM   0:00.03 /Applications/ESET Cyber Security.app/Contents/MacOS/econnd
+eset-ecsm-logd     348   0.0  0.1 411266080   5712   ??  S     8:38AM   0:00.03 /Applications/ESET Cyber Security.app/Contents/MacOS/logd
+root               353   0.0  0.1 411003664   5616   ??  S     8:38AM   0:00.03 /Applications/ESET Cyber Security.app/Contents/MacOS/execd
+root               351   0.0  0.1 410872960   7216   ??  S     8:38AM   0:03.64 /Applications/ESET Cyber Security.app/Contents/MacOS/sysinfod
+root               346   0.0  0.1 426950208   5728   ??  Ss    8:38AM   0:05.56 /usr/libexec/audioanalyticsd
+root               341   0.0  0.0 426918320   2896   ??  Ss    8:38AM   0:00.07 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
+root               337   0.0  0.2 413535104  15616   ??  Ss    8:38AM   3:45.65 /Library/SystemExtensions/62F08B8A-2A5A-4921-B953-4C8CD75676A2/com.eset.firewall.systemextension/Contents/MacOS/com.eset.firewall
+_cmiodalassistants   335   0.0  0.1 426949264   4288   ??  Ss    8:38AM   0:00.11 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/UVCAssistant.systemextension/Contents/MacOS/UVCAssistant
+_cmiodalassistants   334   0.0  0.0 426882624   3824   ??  Ss    8:38AM   0:00.09 /usr/libexec/cameracaptured
+_cmiodalassistants   333   0.0  0.1 426954320   5072   ??  Ss    8:38AM   2:24.87 /usr/sbin/appleh13camerad
+_modelmanagerd     330   0.0  0.1 426971712   5312   ??  Ss    8:38AM   0:01.20 /usr/libexec/modelmanagerd
+_driverkit         328   0.0  0.0 426851648    864   ??  Ss    8:38AM   0:00.49 /System/Library/DriverExtensions/com.apple.AppleUserHIDDrivers.dext/com.apple.AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDDrivers 0x1000009f6 com.apple.AppleUserHIDDrivers
+_driverkit         327   0.0  0.4 426902384  31664   ??  Ss    8:38AM   3:53.25 /System/Library/DriverExtensions/com.apple.DriverKit-AppleBCMWLAN.dext/com.apple.DriverKit-AppleBCMWLAN com.apple.bcmwlan 0x1000009f5 com.apple.DriverKit-AppleBCMWLAN
+_cmiodalassistants   320   0.0  0.0 426916400   1808   ??  S     8:38AM   0:00.46 /usr/sbin/distnoted agent
+_driverkit         326   0.0  0.0 426851440    384   ??  Ss    8:38AM   0:00.03 /System/Library/DriverExtensions/com.apple.DriverKit-IOUserDockChannelSerial.dext/com.apple.DriverKit-IOUserDockChannelSerial com.apple.IOUserDockChannelSerial 0x1000009e9 com.apple.DriverKit-IOUserDockChannelSerial
+_locationd         318   0.0  0.0 426916400   1776   ??  S     8:38AM   0:00.47 /usr/sbin/distnoted agent
+root               323   0.0  0.1 410873024   5680   ??  Ss    8:38AM   0:00.07 /Applications/ESET Cyber Security.app/Contents/MacOS/startd
+root               324   0.0  0.0 411877088   1616   ??  Ss    8:38AM   0:00.06 /Library/PrivilegedHelperTools/com.docker.vmnetd
+_appleevents       319   0.0  0.0 426949296   3648   ??  Ss    8:38AM   0:00.33 /System/Library/CoreServices/appleeventsd --server
+root               304   0.0  0.1 426949792   5952   ??  Ss    8:38AM   0:01.64 /usr/sbin/WirelessRadioManagerd
+root               283   0.0  0.1 426950928   5696   ??  Ss    8:38AM   0:02.29 /System/Library/CoreServices/TimeMachine/backupd
+root               266   0.0  0.1 426960096   7488   ??  Ss    8:38AM   0:34.68 /usr/libexec/syspolicyd
+_analyticsd        231   0.0  0.1 426960352   9872   ??  Ss    8:38AM   0:03.52 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+_coreaudiod        263   0.0  0.0 410201200   2240   ??  Ss    8:38AM   0:00.25 Core Audio Driver (ZoomAudioDevice.driver)
+_windowserver      243   0.0  0.0 426916400   1792   ??  S     8:38AM   0:00.48 /usr/sbin/distnoted agent
+root               257   0.0  0.0 426916416   3456   ??  Ss    8:38AM   0:00.53 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+_coreaudiod        237   0.0  0.0 426916400   1824   ??  S     8:38AM   0:00.49 /usr/sbin/distnoted agent
+root               229   0.0  0.0 426916400   1888   ??  S     8:38AM   0:00.52 /usr/sbin/distnoted agent
+_biome             246   0.0  0.1 426950672   5856   ??  Ss    8:38AM   0:02.13 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed
+root              7739   0.0  0.0 410724064   1936 s001  R+   12:55PM   0:00.01 ps aux
+root               244   0.0  0.0 426949360   3008   ??  Ss    8:38AM   0:00.59 /usr/sbin/mDNSResponderHelper
+_locationd         169   0.0  0.2 427051952  20832   ??  Ss    8:38AM   0:23.41 /usr/libexec/locationd
+root               235   0.0  0.1 426950144   6576   ??  Ss    8:38AM   0:00.38 /usr/libexec/biometrickitd --launchd
+_networkd          222   0.0  0.1 426965024  11136   ??  Ss    8:38AM   0:10.92 /usr/libexec/symptomsd
+root               228   0.0  0.0 426911968   2848   ??  Ss    8:38AM   0:00.03 /usr/libexec/ApplicationFirewall/socketfilterfw
+root               230   0.0  0.0 426950400   3952   ??  Ss    8:38AM   0:00.96 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+root               223   0.0  0.1 426948896   4832   ??  Ss    8:38AM   0:00.56 /usr/libexec/eligibilityd
+_coreaudiod        211   0.0  0.1 426978688   8096   ??  Ss    8:38AM   7:56.95 /usr/sbin/coreaudiod
+root               208   0.0  0.1 426960448   7008   ??  Ss    8:38AM   0:03.12 /usr/libexec/nehelper
+_nsurlsessiond     207   0.0  0.1 427007136   9088   ??  Ss    8:38AM   0:05.47 /usr/libexec/nsurlsessiond --privileged
+root               206   0.0  0.0 426916160   2464   ??  Ss    8:38AM   0:00.18 /usr/libexec/apfsd
+_mdnsresponder     202   0.0  0.2 427037808  12640   ??  Ss    8:38AM   0:13.35 /usr/sbin/mDNSResponder
+root               201   0.0  0.2 426954752  15104   ??  Ss    8:38AM   0:57.59 /usr/libexec/airportd
+root               200   0.0  0.2 426959952  13120   ??  Ss    8:38AM   0:03.01 /usr/libexec/lsd runAsRoot
+root               199   0.0  0.0 426936608   3760   ??  Ss    8:38AM   0:01.02 /System/Library/CoreServices/coreservicesd
+root               196   0.0  0.2 426964144  13712   ??  Ss    8:38AM   0:55.40 /usr/libexec/runningboardd
+_usbmuxd           166   0.0  0.0 426958608   3216   ??  Ss    8:38AM   0:00.22 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+_distnote          176   0.0  0.0 426916400   3104   ??  Ss    8:38AM   0:03.98 /usr/sbin/distnoted daemon
+_timed             165   0.0  0.0 426949120   3504   ??  Ss    8:38AM   0:00.58 /usr/libexec/timed
+veranikalis        195   0.0  0.1 411783808  12528   ??  Ss    8:38AM   0:07.39 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+root               193   0.0  0.1 426916640   5008   ??  Ss    8:38AM   0:16.21 /usr/sbin/cfprefsd daemon
+root               192   0.0  0.1 426960960  10288   ??  Ss    8:38AM   0:13.12 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd system
+root               137   0.0  0.0 426912400   2560   ??  Ss    8:38AM   0:00.03 /usr/libexec/IOMFB_bics_daemon
+root               170   0.0  0.1 426950416   6112   ??  Ss    8:38AM   0:01.77 /usr/libexec/nesessionmanager
+root               181   0.0  0.1 426952352   4624   ??  Ss    8:38AM   0:00.82 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+root               128   0.0  0.1 426954464  10144   ??  Ss    8:38AM   0:26.74 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+root               157   0.0  0.0 426917024   1536   ??  Ss    8:38AM   0:00.78 /usr/sbin/syslogd
+root               190   0.0  0.1 426965376   7824   ??  Ss    8:38AM   0:01.98 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/com.apple.cmio.registerassistantservice
+root               164   0.0  0.1 426952384   8416   ??  Ss    8:38AM   0:10.72 /System/Library/CoreServices/launchservicesd
+root               131   0.0  0.1 426960896   8272   ??  Ss    8:38AM   0:02.48 /usr/sbin/systemstats --daemon
+root               146   0.0  0.0 426912432   2656   ??  Ss    8:38AM   0:00.59 /usr/libexec/watchdogd
+root               185   0.0  0.1 426964896   9424   ??  Ss    8:38AM   0:12.18 /usr/sbin/bluetoothd
+root               160   0.0  0.1 426949200   4880   ??  Ss    8:38AM   0:08.11 /usr/libexec/thermalmonitord
+root               141   0.0  0.0 426949008   2592   ??  Ss+   8:38AM   0:00.08 /usr/libexec/remoted
+root               182   0.0  0.0 426912352   1264   ??  Ss    8:38AM   0:00.03 /usr/sbin/KernelEventAgent
+root               174   0.0  0.0 426949760   2992   ??  Ss    8:38AM   0:00.10 /System/Library/PrivateFrameworks/Heimdal.framework/Helpers/kdc
+root               186   0.0  0.0 426912016   3232   ??  Ss    8:38AM   0:13.12 /usr/sbin/notifyd
+root               187   0.0  0.1 426964592   5520   ??  Ss    8:38AM   0:05.53 /usr/libexec/sandboxd
+root               189   0.0  0.1 426950480   5232   ??  Ss    8:38AM   0:01.33 /usr/libexec/AirPlayXPCHelper
+root               172   0.0  0.0 426912336   2192   ??  Ss    8:38AM   0:00.04 autofsd
+root               127   0.0  0.1 426922512   5424   ??  Ss    8:38AM   0:41.46 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+root               167   0.0  0.1 426950768   7168   ??  Ss    8:38AM   0:02.41 /usr/sbin/securityd -i
+root               163   0.0  0.2 427027520  13184   ??  Ss    8:38AM   0:07.79 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+root               180   0.0  0.1 426915952   4992   ??  Ss    8:38AM   0:00.16 /System/Library/CoreServices/logind
+root               161   0.0  0.1 426955104  10624   ??  Ss    8:38AM   0:27.42 /usr/libexec/opendirectoryd
+root               136   0.0  0.1 426950608   7840   ??  Ss    8:38AM   0:09.36 /System/Library/CoreServices/powerd.bundle/powerd
+root               134   0.0  0.1 426954992   6128   ??  Ss    8:38AM   0:08.27 /usr/libexec/configd
+root               125   0.0  0.1 426951120   7456   ??  Ss    8:38AM   0:02.70 /usr/libexec/UserEventAgent (System)
+root               153   0.0  0.1 426948896   5504   ??  Ss    8:38AM   0:02.41 /usr/libexec/diskarbitrationd
+root               152   0.0  0.0 426952656   4160   ??  Ss    8:38AM   0:00.81 /usr/libexec/kernelmanagerd
+root               245   0.0  0.1 426950592   4880   ??  Ss    8:38AM   0:00.18 /System/Library/Frameworks/SystemExtensions.framework/Versions/A/Helpers/sysextd
+veranikalis       7738   0.0  0.0 426912400   4160   ??  S    12:55PM   0:00.03 /usr/libexec/spindump_agent
+root              7737   0.0  0.1 426913872   8496   ??  Ss   12:55PM   0:00.06 /usr/sbin/spindump
+veranikalis       7736   0.0  0.2 410843440  13536   ??  S    12:54PM   0:00.05 /Applications/ESET Cyber Security.app/Contents/MacOS/oaeventd --user-node
+veranikalis       7735   0.0  0.5 426973120  42032   ??  S    12:54PM   0:01.37 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+veranikalis       7732   0.0  0.2 426955392  14656   ??  S    12:54PM   0:00.17 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+veranikalis       7731   0.0  0.1 426949760  12224   ??  S    12:54PM   0:00.22 /usr/libexec/fmfd
+_spotlight        7729   0.0  0.1 426920320   5056   ??  S    12:53PM   0:00.11 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+_locationd        7728   0.0  0.1 410976096   9984   ??  S    12:53PM   0:00.12 /Applications/ESET Cyber Security.app/Contents/MacOS/oaeventd --user-node
+veranikalis       7726   0.0  0.2 426964352  12704   ??  S    12:52PM   0:00.36 cloudphotod
+veranikalis       7721   0.0  0.2 426936576  17520   ??  S    12:52PM   0:00.18 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+veranikalis       7719   0.0  0.1 426916512   7952   ??  S    12:52PM   0:00.08 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+veranikalis       7717   0.0  0.4 411103488  36768   ??  S    12:52PM   0:00.13 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+veranikalis       7716   0.0  0.1 426964288   7968   ??  S    12:52PM   0:00.20 /System/Library/PrivateFrameworks/CoreParsec.framework/parsec-fbf
+root              7715   0.0  0.0 426916960   3024   ??  Ss   12:52PM   0:00.07 /usr/libexec/securityd_system
+veranikalis       7714   0.0  0.0 426949488   3504   ??  S    12:52PM   0:00.15 /System/Library/CoreServices/ScopedBookmarkAgent
+veranikalis       7709   0.0  0.1 426928592   7248   ??  Ss   12:52PM   0:00.03 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+veranikalis       7708   0.0  0.3 426966832  21216   ??  S    12:52PM   0:01.02 /System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A/Support/photolibraryd
+veranikalis       7706   0.0  0.2 411097264  12864   ??  S    12:52PM   0:00.15 /usr/libexec/mlhostd
+veranikalis       7707   0.0  0.2 426952384  13056   ??  S    12:52PM   0:00.28 /System/Library/PrivateFrameworks/MediaAnalysis.framework/Versions/A/mediaanalysisd
+root              7690   0.0  0.0 426912016   1600   ??  Ss   12:48PM   0:00.15 /usr/libexec/sysmond
+root              7689   0.0  0.1 426948240   7072   ??  Ss   12:48PM   0:00.09 /usr/libexec/powerdatad
+veranikalis       7685   0.0  0.1 426924128   7552   ??  Ss   12:47PM   0:00.05 /System/Library/ExtensionKit/Extensions/IFTelemetrySELFIngestor.appex/Contents/MacOS/IFTelemetrySELFIngestor
+veranikalis       7684   0.0  0.1 426928080   9200   ??  Ss   12:47PM   0:00.07 /System/Library/ExtensionKit/Extensions/BiomeSELFIngestor.appex/Contents/MacOS/BiomeSELFIngestor
+veranikalis       7683   0.0  0.1 426923984   8016   ??  Ss   12:47PM   0:00.06 /System/Library/ExtensionKit/Extensions/IFTranscriptSELFIngestor.appex/Contents/MacOS/IFTranscriptSELFIngestor
+veranikalis       7682   0.0  0.1 426960288   9296   ??  Ss   12:47PM   0:00.08 /System/Library/ExtensionKit/Extensions/GMSSELFIngestor.appex/Contents/MacOS/GMSSELFIngestor
+veranikalis       7681   0.0  0.1 426928592   7888   ??  Ss   12:47PM   0:00.17 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+veranikalis       7680   0.0  0.1 410797648  11232   ??  Ss   12:47PM   0:00.20 /System/Library/PrivateFrameworks/SiriAnalytics.framework/Versions/A/XPCServices/SAExtensionOrchestrator.xpc/Contents/MacOS/SAExtensionOrchestrator
+veranikalis       7657   0.0  0.4 411223280  31232   ??  Ss   12:46PM   0:01.41 /System/Library/PrivateFrameworks/AppPredictionFoundation.framework/Versions/A/XPCServices/AppPredictionIntentsHelperService.xpc/Contents/MacOS/AppPredictionIntentsHelperService
+veranikalis       7649   0.0  0.0 410713456   2656   ??  S    12:45PM   0:00.03 /Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python -c from multiprocessing.resource_tracker import main;main(8)
+veranikalis       7644   0.0  0.0 410976624   2656   ??  S    12:45PM   0:00.03 /Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python -c from multiprocessing.resource_tracker import main;main(6)
+veranikalis       7643   0.0  0.0 411023744   2656   ??  S    12:45PM   0:00.15 /Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python /Users/veranikalis/Geekbrains/ПРОГРАММИСТ/PYTHON/Flask/python_advanced/first_application/app.py
