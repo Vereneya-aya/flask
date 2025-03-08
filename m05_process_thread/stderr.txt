@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/veranikalis/Geekbrains/ПРОГРАММИСТ/PYTHON/Flask/m05_process_thread/hw_4.py", line 47, in <module>
+    raise Exception("Hello stderr.txt")
+Exception: Hello stderr.txt
