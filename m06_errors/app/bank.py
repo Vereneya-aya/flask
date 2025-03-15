@@ -1,6 +1,6 @@
+from flask import Flask, jsonify, render_template_string
 import logging
 import csv
-from flask import Flask, jsonify
 from werkzeug.exceptions import InternalServerError
 
 app = Flask(__name__)
@@ -29,21 +29,22 @@ def get_person_name(person_id):
 
     except FileNotFoundError as e:
         logger.error("Файл с данными не найден")
-        raise e  # Просто пробрасываем
+        raise e
 
     except OSError as e:
         logger.error("Ошибка файловой системы")
-        raise e  # Просто пробрасываем
+        raise e
 
     except ValueError as e:
-        raise e  # Даем ValueError обработаться в errorhandler
+        raise e
 
     except Exception as e:
         logger.exception(f"Неизвестная ошибка: {e}")
-        raise InternalServerError() from e  # Только тут превращаем в 500
+        raise InternalServerError() from e
+
+    # --- Обработчики ошибок ---
 
 
-# --- Обработчики ошибок ---
 @app.errorhandler(FileNotFoundError)
 def handle_file_not_found(e):
     logger.error("Файл с данными не найден")
@@ -66,6 +67,34 @@ def handle_value_error(e):
 def handle_internal_server_error(e):
     logger.error("Внутренняя ошибка сервера")
     return jsonify({"error": "Внутренняя ошибка сервера"}), 500
+
+
+# --- Новый обработчик ошибки 404 ---
+@app.errorhandler(404)
+def page_not_found(e):
+    """Выводит список доступных страниц при ошибке 404"""
+    routes = [rule.rule for rule in app.url_map.iter_rules() if
+              "GET" in rule.methods and not rule.rule.startswith("/static")]
+
+    html_template = """
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Страница не найдена</title>
+    </head>
+    <body>
+        <h1>Ошибка 404: Страница не найдена</h1>
+        <p>Возможно, вы имели в виду один из этих доступных маршрутов:</p>
+        <ul>
+            {% for route in routes %}
+                <li><a href="{{ route }}">{{ route }}</a></li>
+            {% endfor %}
+        </ul>
+    </body>
+    </html>
+    """
+
+    return render_template_string(html_template, routes=routes), 404
 
 
 # --- Endpoint ---
