@@ -1,0 +1,5 @@
+main || INFO || start_working || main.get_system_info:34
+utils.http || DEBUG || Start working: requesting IP || http_utils.get_ip_address:10
+utils.http || INFO || IP Address: 77.227.106.215 || http_utils.get_ip_address:15
+utils.subprocess || DEBUG || Start working: getting kernel version || subprocess_utils.get_kernel_version:11
+utils.subprocess || INFO || Kernel Version: 24.3.0 || subprocess_utils.get_kernel_version:15

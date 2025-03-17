@@ -1,0 +1,46 @@
+{
+    "version": 1,
+    "disable_existing_loggers": false,
+    "formatters": {
+        "simpleFormatter": {
+            "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+            "datefmt": "%Y-%m-%d %H:%M:%S"
+        }
+    },
+    "handlers": {
+        "consoleHandler": {
+            "class": "StreamHandler",
+            "level": "WARNING",
+            "formatter": "simpleFormatter"
+        },
+        "fileHandler": {
+            "class": "FileHandler",
+            "level": "ERROR",
+            "formatter": "simpleFormatter",
+            "filename": "app.log",
+            "mode": "w"
+        }
+    },
+    "loggers": {
+        "root": {
+            "level": "DEBUG",
+            "handlers": [
+                "consoleHandler"
+            ],
+            "propagate": true
+        },
+        "exampleLogger": {
+            "level": "INFO",
+            "handlers": [
+                "fileHandler"
+            ],
+            "propagate": false
+        }
+    },
+    "root": {
+        "level": "DEBUG",
+        "handlers": [
+            "consoleHandler"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+<--""
+   Level DEBUG
+   Handler Stream <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+     Level DEBUG
+     Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)d | %(message)s' datefmt=None
+   Handler File '/Users/veranikalis/Geekbrains/ПРОГРАММИСТ/PYTHON/Flask/m07_logger_object/hw7_2_3/logs/calc_debug.log'
+     Level DEBUG
+     Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)d | %(message)s' datefmt=None
+   Handler File '/Users/veranikalis/Geekbrains/ПРОГРАММИСТ/PYTHON/Flask/m07_logger_object/hw7_2_3/logs/calc_error.log'
+     Level ERROR
+     Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)d | %(message)s' datefmt=None
+   |
+   o   "utils"
+       Level INFO
+       Propagate OFF
+       Handler TimedRotatingFile '/Users/veranikalis/Geekbrains/ПРОГРАММИСТ/PYTHON/Flask/m07_logger_object/hw7_2_3/logs/utils.log' when='H' interval=36000 backupCount=1
+         Level INFO
+         Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)d | %(message)s' datefmt=None
