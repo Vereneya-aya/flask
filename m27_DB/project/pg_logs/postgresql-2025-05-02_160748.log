@@ -1,0 +1,11 @@
+2025-05-02 16:07:48.855 UTC [48] LOG:  starting PostgreSQL 15.12 (Debian 15.12-1.pgdg120+1) on aarch64-unknown-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+2025-05-02 16:07:48.856 UTC [48] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-05-02 16:07:48.859 UTC [52] LOG:  database system was shut down at 2025-05-02 16:07:48 UTC
+2025-05-02 16:07:48.861 UTC [48] LOG:  database system is ready to accept connections
+2025-05-02 16:07:49.023 UTC [48] LOG:  received fast shutdown request
+2025-05-02 16:07:49.024 UTC [48] LOG:  aborting any active transactions
+2025-05-02 16:07:49.025 UTC [48] LOG:  background worker "logical replication launcher" (PID 55) exited with exit code 1
+2025-05-02 16:07:49.025 UTC [50] LOG:  shutting down
+2025-05-02 16:07:49.026 UTC [50] LOG:  checkpoint starting: shutdown immediate
+2025-05-02 16:07:49.054 UTC [50] LOG:  checkpoint complete: wrote 918 buffers (5.6%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.009 s, sync=0.018 s, total=0.029 s; sync files=301, longest=0.006 s, average=0.001 s; distance=4222 kB, estimate=4222 kB
+2025-05-02 16:07:49.056 UTC [48] LOG:  database system is shut down

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Countdown до Нового года</title>
+</head>
+<body>
+  <h1>До Нового года осталось:</h1>
+  <div id="countdown"></div>
+  <script>
+    const targetDate = new Date("Jan 1, 2026 00:00:00").getTime();
+    const countdownEl = document.getElementById("countdown");
+
+    setInterval(function() {
+      const now = new Date().getTime();
+      const distance = targetDate - now;
+
+      const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+      countdownEl.innerHTML = days + " дней";
+    }, 1000);
+  </script>
+</body>
+</html>

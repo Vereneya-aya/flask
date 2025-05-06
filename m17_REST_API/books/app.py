@@ -1,4 +1,4 @@
-# app.py
+# __init__.py
 from flask import Flask
 from flask_restful import Api, Resource
 import models
@@ -33,7 +33,7 @@ api.add_resource(AuthorResource, "/authors/<int:author_id>")
 api.add_resource(AuthorBooks, "/authors/<int:author_id>/books")
 api.add_resource(AuthorBookResource, "/authors/<int:author_id>/books/<int:book_id>")
 
-# app.py
+# __init__.py
 from flask import request
 from flask_restful import Resource
 

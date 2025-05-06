@@ -3,7 +3,7 @@
 #
 ## 3. Копируем файлы проекта
 #COPY requirements.txt .
-#COPY app.py .
+#COPY __init__.py .
 #
 ## 4. Устанавливаем зависимости
 #RUN pip install --no-cache-dir -r requirements.txt
@@ -16,7 +16,7 @@
 #EXPOSE 5000
 #
 ## 7. Определяем точку входа
-#ENTRYPOINT ["python", "app.py"]
+#ENTRYPOINT ["python", "__init__.py"]
 
 FROM python:3.9
 WORKDIR /app

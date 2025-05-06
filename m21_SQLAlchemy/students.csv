@@ -1,0 +1,6 @@
+name;surname;phone;email;average_score;scholarship
+Иван;Иванов;+7(912)-345-67-89;ivanov@example.com;4.7;True
+Пётр;Петров;+7(913)-111-22-33;petrov@example.com;4.2;False
+Анна;Сидорова;+7(914)-555-66-77;sidoroa@example.com;3.8;False
+Мария;Кузнецова;89125556677;kuznecova@example.com;4.5;True
+Олег;Смирнов;+7(915)-777-88-99;smirnov@example.com;4.0;True

@@ -1,0 +1,23 @@
+get:
+  tags:
+    - Books
+  summary: Получить список всех книг
+  responses:
+    200:
+      description: Список книг
+      schema:
+        type: array
+        items:
+          $ref: '#/definitions/Book'
+definitions:
+  Book:
+    type: object
+    properties:
+      id:
+        type: integer
+      title:
+        type: string
+      year:
+        type: integer
+      author:
+        type: string

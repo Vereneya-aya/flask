@@ -1,0 +1,6 @@
+Flask
+Celery
+Flask-Mail
+redis
+pillow
+flower

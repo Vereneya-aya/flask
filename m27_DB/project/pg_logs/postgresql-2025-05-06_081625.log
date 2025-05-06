@@ -1,0 +1,8 @@
+2025-05-06 08:16:25.946 UTC [1] LOG:  starting PostgreSQL 15.12 (Debian 15.12-1.pgdg120+1) on aarch64-unknown-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+2025-05-06 08:16:25.947 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+2025-05-06 08:16:25.947 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+2025-05-06 08:16:25.953 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+2025-05-06 08:16:25.970 UTC [30] LOG:  database system was shut down at 2025-05-02 19:16:57 UTC
+2025-05-06 08:16:26.004 UTC [1] LOG:  database system is ready to accept connections
+2025-05-06 08:21:26.102 UTC [28] LOG:  checkpoint starting: time
+2025-05-06 08:21:26.325 UTC [28] LOG:  checkpoint complete: wrote 5 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.211 s, sync=0.004 s, total=0.224 s; sync files=4, longest=0.003 s, average=0.001 s; distance=8 kB, estimate=8 kB
